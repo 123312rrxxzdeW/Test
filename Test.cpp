@@ -7,9 +7,7 @@ void ThisIsEbram()
 }
 
 
-void SecondFunction()
-{
-	cout << "Hello My best firsnt";
+
 }
 int main()
 {
